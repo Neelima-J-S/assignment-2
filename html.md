@@ -1,4 +1,3 @@
-[20:27, 16/05/2021] Sheena: # coursera-test
 <!doctype html>
 <html>
 <head>
